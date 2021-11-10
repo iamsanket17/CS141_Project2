@@ -1,2 +1,2 @@
 # CS141_Project2
-Rally Songs
+Rally Song: Read political candidate's favorite song lyrics from a file. Choose random lines and see if the reader can identify the candidate. This was inspired by the New York Times article: https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html which describes the different songs played at political rallies for different 2020 presidential candidates.
